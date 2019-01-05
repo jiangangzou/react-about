@@ -1,0 +1,17 @@
+{
+  "name": "react_code",
+  "version": "1.0.0",
+  "description": "1. 虚拟DOM ？ VNode Virtual DOM\r mvvm 封装了dom 层 \r dom 太消耗性能\r vnode + diff 算法来解决\r jsx 语法\r 用js对象描述html结构",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  }
+}
